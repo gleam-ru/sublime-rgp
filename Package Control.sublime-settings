@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoHotkey",
+		"Better CoffeeScript",
+		"BracketGuard",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"DocBlockr",
+		"EasyMotion",
+		"EditorConfig",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"Insert Callback",
+		"Jade",
+		"JsFormat",
+		"JSHint",
+		"LoremGibson",
+		"LoremIpsum",
+		"Material Theme",
+		"Monokai Extended",
+		"Monokai Gray",
+		"Numix Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Theme - Afterglow",
+		"Theme - Monokai",
+		"Theme - Numix",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
