@@ -6,6 +6,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"BracketGuard",
 		"Vintage"
 	],
 	"index_exclude_patterns":
@@ -15,6 +16,7 @@
 		"D:\\work\\компетенции\\_logs\\log.txt"
 	],
 	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
 	"sidebar_no_icon": true,
 	"status_bar_brighter": true,
 	"tabs_medium": true,

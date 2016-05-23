@@ -1,20 +1,25 @@
 {
     "user": {
         "debug": false,
-        "delay": 0.25,
+        "delay": 0.1,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "load/save",
+        "lint_mode": "background",
         "linters": {
             "jscs": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
-        "mark_style": "outline",
-        "no_column_highlights_line": false,
+        "mark_style": "stippled underline",
+        "no_column_highlights_line": true,
         "passive_warnings": false,
         "paths": {
             "linux": [],
