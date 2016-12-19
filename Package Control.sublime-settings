@@ -35,6 +35,7 @@
 		"SideBarEnhancements",
 		"Six - Future JavaScript Syntax",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Theme - Afterglow",
