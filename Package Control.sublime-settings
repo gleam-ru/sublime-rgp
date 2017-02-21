@@ -38,6 +38,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"Theme - Afterglow",
-		"Theme - Monokai"
+		"Theme - Monokai",
+		"Vue Syntax Highlight"
 	]
 }
