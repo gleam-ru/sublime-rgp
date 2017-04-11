@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"folder_no_icon": true,
 	"font_size": 13,
 	"highlight_modified_tabs": true,
@@ -29,5 +29,5 @@
 	"tabs_medium": true,
 	"tabs_padding_medium": true,
 	"tabs_small": true,
-	"theme": "Afterglow-blue.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
