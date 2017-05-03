@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", "bower_components"],
 	"folder_no_icon": true,
 	"font_size": 13,
 	"highlight_modified_tabs": true,
