@@ -31,8 +31,6 @@
 		"LoremIpsum",
 		"Markdown Extended",
 		"Material Theme",
-		"Monokai Extended",
-		"Monokai Gray",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
@@ -40,9 +38,7 @@
 		"Six - Future JavaScript Syntax",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-eslint",
-		"Theme - Afterglow",
-		"Theme - Monokai",
+		"SublimeLinter-eslint",
 		"Vue Syntax Highlight",
 		"YandexTranslate"
 	]
